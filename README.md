@@ -1,4 +1,4 @@
-# water_reminder
+# settings
 
 A new Flutter project.
 

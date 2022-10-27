@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.vynh.water_reminder">
+    package="com.example.settings">
    <application
-        android:label="water_reminder"
+        android:label="settings"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
